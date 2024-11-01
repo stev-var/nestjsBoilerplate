@@ -1,0 +1,4 @@
+export enum SOCKET_EVENT_NAMES {
+  SUCCESS = 'SUCCESS',
+  FAILURE = 'FAILURE',
+}
